@@ -1,7 +1,7 @@
-## Кино
+<h1>Кино</h1>
 <img src="https://rossaprimavera.ru/static/files/17eb7e9970e3.jpg" alt="Текст">
-<a href="https://www.kinopoisk.ru/">Кинопоиск</a> - главный российский сайт про кино.
-<h1>Жанры</h1>
+<a href="https://www.kinopoisk.ru/">Кинопоиск</a> - главный российский сайт про кино
+# Жанры
 <ul>
 <li> комедии
 <li> мультфильмы  
